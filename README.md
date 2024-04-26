@@ -18,7 +18,7 @@ Prjeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="projeto Móveis customizados" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Móveis customizados" src="https://i.imgur.com/IfQOgjd.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Móveis customizados é uma landing page para usar como cartão de visitas online.
+O [Móveis customizados](https://lorransalberici.github.io/explorer-stage02-p01/) é uma landing page para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
