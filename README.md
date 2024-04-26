@@ -1,7 +1,7 @@
 <h1 align="center"> Móveis customizados </h1>
 
 <p align="center">
-Prjeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
